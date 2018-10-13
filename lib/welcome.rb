@@ -4,7 +4,7 @@
 puts "Welcome to Tic Tac Toe"
 
 
-Run "#ruby lib/welcome.rb"
+Run "ruby lib/welcome.rb"
 
 
 
